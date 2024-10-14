@@ -21,10 +21,10 @@ const HeroSection = () => {
         </p>
         <br />
         <p>
-          I'm currently expanding my skill set by exploring Next.js and
+          I&apos;m currently expanding my skill set by exploring Next.js and
           developing my own portfolio website, where I showcase my skills in web
           development, including HTML, CSS, TypeScript, and React. I love
-          experimenting with new ideas, and I’m always eager to take on
+          experimenting with new ideas, and I&apos;m always eager to take on
           challenging projects that allow me to grow both personally and
           professionally.
         </p>
